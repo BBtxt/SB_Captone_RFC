@@ -155,4 +155,3 @@ Watchlist Table:
           - email confirmation
           - delete account popup
           - infinite scroll on watchlist/search results/dashoard banner
-
